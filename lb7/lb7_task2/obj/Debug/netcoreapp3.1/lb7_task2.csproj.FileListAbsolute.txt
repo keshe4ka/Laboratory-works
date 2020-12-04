@@ -1,0 +1,13 @@
+E:\VS Projects\lb7\lb7_task2\bin\Debug\netcoreapp3.1\lb7_task2.exe
+E:\VS Projects\lb7\lb7_task2\bin\Debug\netcoreapp3.1\lb7_task2.deps.json
+E:\VS Projects\lb7\lb7_task2\bin\Debug\netcoreapp3.1\lb7_task2.runtimeconfig.json
+E:\VS Projects\lb7\lb7_task2\bin\Debug\netcoreapp3.1\lb7_task2.runtimeconfig.dev.json
+E:\VS Projects\lb7\lb7_task2\bin\Debug\netcoreapp3.1\lb7_task2.dll
+E:\VS Projects\lb7\lb7_task2\bin\Debug\netcoreapp3.1\lb7_task2.pdb
+E:\VS Projects\lb7\lb7_task2\obj\Debug\netcoreapp3.1\lb7_task2.csprojAssemblyReference.cache
+E:\VS Projects\lb7\lb7_task2\obj\Debug\netcoreapp3.1\lb7_task2.AssemblyInfoInputs.cache
+E:\VS Projects\lb7\lb7_task2\obj\Debug\netcoreapp3.1\lb7_task2.AssemblyInfo.cs
+E:\VS Projects\lb7\lb7_task2\obj\Debug\netcoreapp3.1\lb7_task2.csproj.CoreCompileInputs.cache
+E:\VS Projects\lb7\lb7_task2\obj\Debug\netcoreapp3.1\lb7_task2.dll
+E:\VS Projects\lb7\lb7_task2\obj\Debug\netcoreapp3.1\lb7_task2.pdb
+E:\VS Projects\lb7\lb7_task2\obj\Debug\netcoreapp3.1\lb7_task2.genruntimeconfig.cache
