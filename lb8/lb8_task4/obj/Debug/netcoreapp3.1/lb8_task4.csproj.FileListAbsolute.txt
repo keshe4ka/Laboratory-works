@@ -1,0 +1,13 @@
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\bin\Debug\netcoreapp3.1\lb8_task4.exe
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\bin\Debug\netcoreapp3.1\lb8_task4.deps.json
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\bin\Debug\netcoreapp3.1\lb8_task4.runtimeconfig.json
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\bin\Debug\netcoreapp3.1\lb8_task4.runtimeconfig.dev.json
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\bin\Debug\netcoreapp3.1\lb8_task4.dll
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\bin\Debug\netcoreapp3.1\lb8_task4.pdb
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\obj\Debug\netcoreapp3.1\lb8_task4.csprojAssemblyReference.cache
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\obj\Debug\netcoreapp3.1\lb8_task4.AssemblyInfoInputs.cache
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\obj\Debug\netcoreapp3.1\lb8_task4.AssemblyInfo.cs
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\obj\Debug\netcoreapp3.1\lb8_task4.csproj.CoreCompileInputs.cache
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\obj\Debug\netcoreapp3.1\lb8_task4.dll
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\obj\Debug\netcoreapp3.1\lb8_task4.pdb
+E:\VS Projects\Laboratory-works\lb8\lb8_task4\obj\Debug\netcoreapp3.1\lb8_task4.genruntimeconfig.cache

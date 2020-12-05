@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VS Projects\\lb7\\lb7_task4\\lb7_task4.csproj": {}
+    "E:\\VS Projects\\Laboratory-works\\lb7\\lb7_task4\\lb7_task4.csproj": {}
   },
   "projects": {
-    "E:\\VS Projects\\lb7\\lb7_task4\\lb7_task4.csproj": {
+    "E:\\VS Projects\\Laboratory-works\\lb7\\lb7_task4\\lb7_task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VS Projects\\lb7\\lb7_task4\\lb7_task4.csproj",
+        "projectUniqueName": "E:\\VS Projects\\Laboratory-works\\lb7\\lb7_task4\\lb7_task4.csproj",
         "projectName": "lb7_task4",
-        "projectPath": "E:\\VS Projects\\lb7\\lb7_task4\\lb7_task4.csproj",
+        "projectPath": "E:\\VS Projects\\Laboratory-works\\lb7\\lb7_task4\\lb7_task4.csproj",
         "packagesPath": "C:\\Users\\keshe4ka\\.nuget\\packages\\",
-        "outputPath": "E:\\VS Projects\\lb7\\lb7_task4\\obj\\",
+        "outputPath": "E:\\VS Projects\\Laboratory-works\\lb7\\lb7_task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keshe4ka\\AppData\\Roaming\\NuGet\\NuGet.Config",
